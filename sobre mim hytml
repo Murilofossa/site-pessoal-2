@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mim site Murilo</title>
+    <link rel="stylesheet" href="sobre mim.css"> 
+</head>
+<body>
+    <nav class="links"> 
+        <a href="site pessoal.html">Menu</a> 
+        <a href="sobre mim.html">Sobre mim</a> 
+        <a href="Meus passatempos">Passatempos</a> 
+        <a href="Futuro">O que quero ser</a> 
+   </nav> 
+   <h1>Minha autobiografia.</h1>
+   <p>Nesse texto vou falar um pouco sobre mim, sou o Murilo, tenho 15 anos, tenho cabelo castanho e um pouco arredondado e uso óculos. Agora que me presentei vou falar da minha vida, mas vou começar de trás para frente.<br>
+Minha primeira memória foi quando eu estava tocando bateria de brinquedo na minha primeira casa que morei, sempre morei em Indaiatuba e sempre estudei no Renovação, eu gostava de história e geografia na época. <br>
+Eu gostava bastante de futebol e fazia na escola, eu ia no cinema e me entretia com os filmes e gostava de ler gibi da Turma da Mônica. <br>
+Aos 10 anos fiz catissismo, onde você se prepara para receber o corpo de cristo na Igreja Católica, chegou a pandemia e parei de jogar futebol, além de estudar online, também no meio do Covid eu conclui o catissismo, claro que seguindo as regras da pandemia.<br>
+Acho que 2023 foi o melhor ano da minha vida, fui para o Anglo e minhas notas eram muito boas e voltei a fezer futebol, mas no primavera, um time da minha cidade, fiz novas amizades e no final do ano comecei a fazer crisma, que também é da Igraja Católica, sempre gostei de tecnologia, então me inscrevi para entrar no IFSP no curso de informáica e eu e minha família ficamos felizes que eu passei. <br>
+Em 2024 que é o ano que estou escrevendo isso, comecei a estudar no IF e conheci novas pessoas, também minha paixão por tecnologia seguiu um novo rumo, por causa das aulas de ALOP e de CWEB, já me decidi o que eu quero ser da minha vida, quero ser um programador. No meio do ano começou a greve no câmpus, e foi muito estressante essa época, mas finalmente acabou, no </p>
+</body>
+</html>
