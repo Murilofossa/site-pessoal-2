@@ -1,0 +1,29 @@
+body { 
+    background-image: url("branco.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+   
+nav{ 
+    display: flex; 
+    justify-content: space-around; 
+    background-color: rgba(187, 1, 1, 0.781); 
+    padding: 40px 10px; 
+} 
+a{ 
+    color: rgb(255, 255, 255); 
+    text-decoration: none;
+} 
+h1{
+    text-align: center;
+    color: rgb(204, 204, 204);
+}
+p{
+    font-size: 30px;
+}
+body {
+    background-image: url("https://i.pinimg.com/736x/6d/a9/f7/6da9f783d51f856361fde77593069001.jpg");
+  }
+  p{
+    color: rgb(204, 204, 204);
+  }
