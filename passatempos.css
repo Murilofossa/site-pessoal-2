@@ -17,3 +17,11 @@ a{
 body {
     background-image: url("https://i.pinimg.com/736x/6d/a9/f7/6da9f783d51f856361fde77593069001.jpg");
   }
+  p{
+    font-size: 30px;
+    color: rgb(204, 204, 204);
+}
+h1{
+    text-align: center;
+    color: rgb(204, 204, 204);
+}
